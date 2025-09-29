@@ -1,0 +1,11 @@
+transformers>=4.31.0
+datasets
+accelerate
+peft
+bitsandbytes
+trl
+pyarrow==19.0.0
+torch
+safetensors
+setuptools
+wheel
