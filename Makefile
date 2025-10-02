@@ -1,3 +1,6 @@
+setup:
+	.venv\\Scripts\\activate
+
 install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
@@ -20,4 +23,4 @@ deploy:
 # 	docker tag mlops:latest 561744971673.dkr.ecr.us-east-1.amazonaws.com/mlops:latest
 # 	docker push 561744971673.dkr.ecr.us-east-1.amazonaws.com/mlops:latest
 	
-all: install lint test format 
+all: setup install lint test format
