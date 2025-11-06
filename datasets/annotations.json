@@ -1,0 +1,162 @@
+[
+  {
+    "id": "A1",
+    "image": "images/trophy_celebration.jpg",
+    "statement": "Worst day of my life.",
+    "label": "sarcastic",
+    "context": "Person holding a trophy with cheering crowd.",
+    "explanation": "Positive image contradicts negative text, implying sarcasm."
+  },
+  {
+    "id": "A2",
+    "image": "images/beach_sunset_smile.jpg",
+    "statement": "This place is such a dump.",
+    "label": "sarcastic",
+    "context": "Smiling at a beautiful beach during sunset.",
+    "explanation": "Text is insulting despite clearly pleasant scene."
+  },
+  {
+    "id": "B1",
+    "image": "images/rain_broken_umbrella.jpg",
+    "statement": "Could this day get any better?",
+    "label": "sarcastic",
+    "context": "Drenched person with broken umbrella in heavy rain.",
+    "explanation": "Common sarcastic phrase used in a bad situation."
+  },
+  {
+    "id": "B2",
+    "image": "images/burnt_food_stove.jpg",
+    "statement": "Nailed it.",
+    "label": "sarcastic",
+    "context": "Charred, failed cooking attempt on a stove.",
+    "explanation": "Meme sarcasm praising a failure."
+  },
+  {
+    "id": "C1",
+    "image": "images/bsod_laptop.jpg",
+    "statement": "Technology makes life so smooth.",
+    "label": "sarcastic",
+    "context": "Laptop showing a blue screen error.",
+    "explanation": "World knowledge that BSOD is bad contradicts text."
+  },
+  {
+    "id": "C2",
+    "image": "images/struggling_1kg_dumbbells.jpg",
+    "statement": "Future Olympian right here.",
+    "label": "sarcastic",
+    "context": "Person struggling to lift tiny dumbbells.",
+    "explanation": "Hyperbolic praise indicates sarcasm."
+  },
+  {
+    "id": "D1",
+    "image": "images/chill_evening_tv.jpg",
+    "statement": "Such a stressful evening.",
+    "label": "sarcastic",
+    "context": "Couch, snacks, and TV — relaxed setting.",
+    "explanation": "Image contradicts text stress claim."
+  },
+  {
+    "id": "E1",
+    "image": "images/complex_math_board.jpg",
+    "statement": "Math is so intuitive.",
+    "label": "sarcastic",
+    "context": "Dense equations covering a blackboard.",
+    "explanation": "Understated, subtle sarcasm without clear polarity words."
+  },
+  {
+    "id": "E2",
+    "image": "images/terrified_roller_coaster.jpg",
+    "statement": "Totally relaxing ride.",
+    "label": "sarcastic",
+    "context": "Person looks visibly terrified on a roller coaster.",
+    "explanation": "Positive adjective used sarcastically."
+  },
+  {
+    "id": "E3",
+    "image": "images/cat_mischief.jpg",
+    "statement": "Such a helpful little assistant.",
+    "label": "sarcastic",
+    "context": "Cat knocking items off a table.",
+    "explanation": "Polite phrasing hides sarcasm."
+  },
+  {
+    "id": "F1",
+    "image": "images/icecream_sunny_day.jpg",
+    "statement": "Best day ever!",
+    "label": "not_sarcastic",
+    "context": "Happy person enjoying ice cream in sunshine.",
+    "explanation": "Literal positive sentiment consistent with image."
+  },
+  {
+    "id": "F2",
+    "image": "images/graduation_cap_gown.jpg",
+    "statement": "Finally made it!",
+    "label": "not_sarcastic",
+    "context": "Graduate holding diploma at ceremony.",
+    "explanation": "Literal celebration."
+  },
+  {
+    "id": "F3",
+    "image": "images/perfect_cake_chef.jpg",
+    "statement": "Chef of the year right here.",
+    "label": "not_sarcastic",
+    "context": "Proud chef with a well-made cake.",
+    "explanation": "Genuine compliment."
+  },
+  {
+    "id": "F4",
+    "image": "images/family_picnic_park.jpg",
+    "statement": "Lovely afternoon together.",
+    "label": "not_sarcastic",
+    "context": "Family smiling at a picnic in a park.",
+    "explanation": "No contradiction; sincere sentiment."
+  },
+  {
+    "id": "F5",
+    "image": "images/running_finish_line.jpg",
+    "statement": "I am so proud of this moment.",
+    "label": "not_sarcastic",
+    "context": "Runner crossing the finish line.",
+    "explanation": "Statement matches successful outcome."
+  },
+  {
+    "id": "F6",
+    "image": "images/new_born_baby.jpg",
+    "statement": "Welcome to the world.",
+    "label": "not_sarcastic",
+    "context": "Parents holding a newborn.",
+    "explanation": "Sincere positive expression."
+  },
+  {
+    "id": "F7",
+    "image": "images/clean_workspace.jpg",
+    "statement": "Everything feels in place today.",
+    "label": "not_sarcastic",
+    "context": "Neat desk and organized workspace.",
+    "explanation": "Image aligns with calm statement."
+  },
+  {
+    "id": "F8",
+    "image": "images/team_high_five.jpg",
+    "statement": "Great work, everyone!",
+    "label": "not_sarcastic",
+    "context": "Team celebrating a milestone with high-fives.",
+    "explanation": "Literal praise."
+  },
+  {
+    "id": "F9",
+    "image": "images/sunrise_hike.jpg",
+    "statement": "Totally worth the early start.",
+    "label": "not_sarcastic",
+    "context": "Hikers watching a beautiful sunrise from a summit.",
+    "explanation": "Positive assessment matches image."
+  },
+  {
+    "id": "F10",
+    "image": "images/fresh_baked_bread.jpg",
+    "statement": "Smells amazing.",
+    "label": "not_sarcastic",
+    "context": "Freshly baked loaves on a cooling rack.",
+    "explanation": "Literal compliment."
+  }
+]
