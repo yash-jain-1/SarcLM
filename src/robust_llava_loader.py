@@ -1,9 +1,3 @@
-# robust_llava_loader.py
-# Loads a LLaVA-style model even when AutoModelForCausalLM doesn't recognize LlavaConfig.
-# Requires: transformers, torch, datasets, peft, trl, etc.
-# Make sure to run: pip install -U "transformers>=4.31.0" bitsandbytes peft trl datasets safetensors
-# if you want 4-bit quantization support (and bitsandbytes installed).
-
 import importlib
 import sys
 import traceback
